@@ -5,8 +5,8 @@
  * Link: https://leetcode.com/problems/group-anagrams/
  *
  * Pattern: Array Traversal, Hashing
- * Time Complexity: O(n)
- * Space Complexity: O(1)
+ * Time Complexity: O(n * k log k)
+ * Space Complexity: O(n*k)
  */
 
 import java.util.*;
