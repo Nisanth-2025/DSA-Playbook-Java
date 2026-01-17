@@ -28,7 +28,7 @@ public class AverageOfSubarrays
     public static void main(String[] args)
     {
         int[] arr = {1,2,3,1,4,6,5,3,5,6,4};
-        System.out.println("Max Sum of Sub-Array = "+averageSubArrays(arr,4));
-        System.out.println("Max Sum of Sub-Array = "+averageSubArrays(arr,12));
+        System.out.println("Average of Sub-Array = "+averageSubArrays(arr,4));
+        System.out.println("Average of Sub-Array = "+averageSubArrays(arr,12));
     }    
 }
